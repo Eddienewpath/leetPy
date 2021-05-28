@@ -1,2 +1,0 @@
-def distributeCoins(root):
-    pass

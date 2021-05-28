@@ -1,2 +1,0 @@
-def longestCommonPrefix(strs):
-    pass 

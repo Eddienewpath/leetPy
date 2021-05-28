@@ -1,4 +1,0 @@
-def countNodes(root):
-    pass 
-
-
